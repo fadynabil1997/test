@@ -1,0 +1,48 @@
+nav img{
+    max-width: 64px;
+    max-height: 64px;
+    object-fit: scale-down;
+    border-radius: 50%;
+}
+
+#text{
+width: 98%;
+min-height: 380px;
+border-radius: 20px;
+border: 2px double rgb(163, 154, 245);
+}
+main{
+    text-align: center;
+}
+
+#butt{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#butt button{
+
+    width: 47%;
+    border-radius: 12px;
+    border: 0px;
+    padding: 12px;
+}
+#butt2{
+    background-color: red;
+    color: wheat;
+}
+#butt1{
+
+    background-color: black;
+    color: wheat;
+}
+#p{
+    padding: 15px;
+    border-bottom: 2px solid red;
+    margin: 8px 0px;
+    font-weight: bold;
+}
+#ntega{
+    max-width: 100% !important;
+    
+}
